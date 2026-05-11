@@ -1,6 +1,8 @@
 # Web Rendering Strategies: CSR, SSR, SSG & ISR
 
-A comprehensive guide to understanding Client-Side Rendering, Server-Side Rendering, Static Site Generation, and Incremental Static Regeneration — with setup examples and a decision framework. Click ⭐ if you like the project. Pull Requests are highly appreciated.
+Click ⭐ if you like the project. Pull Requests are highly appreciated.
+
+A comprehensive guide to understanding Client-Side Rendering, Server-Side Rendering, Static Site Generation, and Incremental Static Regeneration — with setup examples and a decision framework. 
 
 ---
 
